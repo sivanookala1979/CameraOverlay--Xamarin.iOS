@@ -1,0 +1,14 @@
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\bin\iPhone\Release\CameraOverlay.iOS.exe
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\bin\iPhone\Release\CameraOverlay.iOS.pdb
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\bin\iPhone\Release\CameraOverlay.dll
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\bin\iPhone\Release\CameraOverlay.pdb
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\obj\iPhone\Release\optimized\
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\obj\iPhone\Release\CameraOverlay.iOS.csprojResolveAssemblyReference.cache
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\obj\iPhone\Release\CameraOverlay.iOS.exe
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\obj\iPhone\Release\CameraOverlay.iOS.pdb
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\bin\iPhone\Release\CameraOverlay.dll.mdb
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\obj\iPhone\Release\CameraOverlay.iOS.exe.mdb
+C:\Tindall\CameraOverlay\CameraOverlay\CameraOverlay.iOS\bin\iPhone\Release\CameraOverlay.iOS.exe.mdb
